@@ -1,5 +1,7 @@
 # Demo for point-in-triangle algorithm
 
+Demo for blog post: [Efficiently checking if a point lies within a triangle](https://www.navix.me/blog/point-in-triangle)
+
 ![Demo](https://0x0.st/HHNO.gif)
 
 ## Building and running
